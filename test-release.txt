@@ -1,1 +1,1 @@
-Check release script.
+Check release script v1.1
